@@ -1,2 +1,2 @@
 ### Hello 👋
-<img src="MygithubBanner.png" width="1200" height="580">
+<img src="MygithubBanner.png" style="object-fit:cover;">
