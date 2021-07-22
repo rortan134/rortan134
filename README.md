@@ -1,2 +1,2 @@
 ### Hello 👋
-![img](MygithubBanner.png)
+<img src="MygithubBanner.png" width="500" height="100">
