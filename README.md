@@ -1,2 +1,2 @@
 ### Hello 👋
-![Screenshot](MygithubBanner.png)
+![img](MygithubBanner.png)
