@@ -1,5 +1,5 @@
 # Hey 😎
-<img src="MygithubBanner.png" style="object-fit:cover; height: 100px; width: 100%;">
+<img src="MygithubBanner.png" style="border-radius: 50%;">
 
 ### 🚀 Currently seeking ideas and learning new things
 
