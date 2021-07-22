@@ -1,6 +1,6 @@
 # Hey 😎
 <p align="center">
-<img src="MygithubBanner.png" height="400" width="auto" >
+<img src="MygithubBanner.png" height="auto" width=850" >
 <p/>
 
 ### 🚀 Currently seeking ideas and learning new things
