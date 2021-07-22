@@ -1,2 +1,2 @@
 ### Hello 👋
-[img]https://i.imgur.com/raiFqn4.png[/img]
+![Screenshot](MygithubBanner.png)
