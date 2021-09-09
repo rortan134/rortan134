@@ -24,9 +24,9 @@ Hey
 
 <br><br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rortan134&show_icons=true&locale=en" alt="rortan134" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rortan134&show_icons=true&locale=en" alt="rortan134" /></p>
 <hr>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rortan134&" alt="rortan134" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=rortan134&" alt="rortan134" /></p>
 
 <hr>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rortan134" alt="rortan" /></a> </p> 
