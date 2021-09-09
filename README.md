@@ -21,7 +21,9 @@ Hey
 
 ### Stats:                                                                                                                                                  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rortan134&show_icons=true&locale=en&layout=compact" alt="rortan134" /></p>
-<br>
+
+<br><br>
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rortan134&show_icons=true&locale=en" alt="rortan134" /></p>
 <hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rortan134&" alt="rortan134" /></p>
