@@ -12,7 +12,7 @@ Hey
 - Node & Express
 - SEO
 
-#### Also looking to collaborate on more open source projects 😉
+#### Also looking to collaborate on more open source projects
 - 📫 How to reach me <a href="mailto:gilbertojr.dev@gmail.com">gilbertojr.dev@gmail.com</a>
 
 ### Languages and Tools:
