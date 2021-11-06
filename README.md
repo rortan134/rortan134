@@ -27,9 +27,7 @@ Hey
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rortan134&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="rortan134" />
 &nbsp;
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=rortan134&show_icons=true&locale=en&hide=issues&count_private=true&theme=chartreuse-dark" alt="rortan134" /></p>
-
-<hr>                                                                                                                                      
-                                                                                                                                       
+<hr>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rortan134&theme=chartreuse-dark" alt="rortan134" /></p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rortan134&theme=chartreuse-dark" alt="rortan" /></a> </p> 
 <pre />                                                                                                      
