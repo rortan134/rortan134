@@ -18,5 +18,5 @@ hey
   </td>
   </tr>
 </table>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rortan134&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="rortan134 languages" />             <img align="center" src="https://github-readme-stats.vercel.app/api?username=rortan134&show_icons=true&locale=en&hide=issues&count_private=true&theme=chartreuse-dark" alt="rortan134 rortan134 gh stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=rortan134&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="rortan134 languages" /> <img align="center" src="https://github-readme-stats.vercel.app/api?username=rortan134&show_icons=true&locale=en&hide=issues&count_private=true&theme=chartreuse-dark" alt="rortan134 rortan134 gh stats" />
 <pre />                                                                                                      
