@@ -1,16 +1,17 @@
 <p align="center">
 <img src="GithubReadme.png" height="auto" width=100%" >
 <p/>
+                                                     
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rortan134&label=Profile%20views&color=0e75b6&style=flat" alt="rortan134" /></p>
 
+                                                     
 <h2>
-hey
-<img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" height="24" width="24" alt="Hello There" />
+Hello there!
 </h2>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rortan134&label=Profile%20views&color=0e75b6&style=flat" alt="rortan134" /></p>
-<br>
 
-### stats
+
+### 📊 Stats
 <pre>
 <table>
    <tr>
