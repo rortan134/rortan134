@@ -1,7 +1,3 @@
-<p align="center">
-<img src="GithubReadme.png" height="auto" width=100%" >
-<p/>
-                                                     
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rortan134&label=Profile%20views&color=0e75b6&style=flat" alt="rortan134" /></p>
 
                                                      
